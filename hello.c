@@ -13,10 +13,6 @@ int main()
     }
 
     printf("blah \n");
-    printf("blah \n");
-    printf("blah \n");
-    printf("blah \n");
-    printf("blah \n");
 
     return 0;
 }
