@@ -1,7 +1,0 @@
-struct file_operations fOps =
-{
-.open = devOpen,        //open device
-.read = devRead,		//read from device
-.write = devWrite,      //write to device
-.release = devRelease,  //close device
-};
